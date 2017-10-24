@@ -7,3 +7,9 @@ This website is about dragons (not unicorns)!
 Green dragons are the best kind.
 
 :tada:
+
+***
+
+*fun learning something new*
+:+1:
+
